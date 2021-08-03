@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: lightorchid;
+}
+#apps{
+    background-color: aquamarine;
+}
+#games{
+    background-color: lightcyan;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: auto;
+}
